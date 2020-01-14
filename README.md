@@ -1,3 +1,5 @@
+<a href="https://zeit.co/new/project?template=zeit/og-image"><img width="128" src="https://zeit.co/button" align="right"></a>
+
 # [Open Graph Image as a Service](https://og-image.now.sh)
 
 <a href="https://twitter.com/zeithq/status/1092587111985881088">
@@ -61,7 +63,7 @@ You'll want to fork this repository and deploy your own image generator.
 
 Alternatively, you can do a one-click to deploy with the button below.
 
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://zeit.co/new/project?template=zeit/og-image)
+[![Deploy to now](https://zeit.co/button)](https://zeit.co/new/project?template=zeit/og-image)
 
 Once you have an image generator that sparks joy, you can setup [automatic Now + GitHub](https://zeit.co/github) deployments so that pushing to master is also deploying to production! 🚀
 
